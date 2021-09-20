@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration id="chatserver">
+    <port>2000</port>
+	<log-level>info</log-level>
+	<database-type>file</database-type>
+	<database-source>src/main/resources/database.txt</database-source>
+</configuration>
